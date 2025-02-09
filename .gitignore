@@ -171,3 +171,4 @@ cython_debug/
 .pypirc
 CREDENCIAIS/ecogrowth-772d4-firebase-adminsdk-ubo79-eef9fa5c2f.json
 FIREBASE/firebase_config.py
+TCCGUSTAVO/FIREBASE/firebase_config.py
